@@ -1,0 +1,35 @@
+﻿  main.c
+d:\studia\sbd\project1\main.c(85): warning C4244: '=': conversion from 'fpos_t' to 'int', possible loss of data
+d:\studia\sbd\project1\main.c(90): warning C4013: 'compare' undefined; assuming extern returning int
+d:\studia\sbd\project1\main.c(121): warning C4101: 'fileStream': unreferenced local variable
+d:\studia\sbd\project1\main.c(326): warning C4047: '==': 'int' differs in levels of indirection from 'void *'
+d:\studia\sbd\project1\main.c(352): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'unsigned __int64'
+  d:\studia\sbd\project1\main.c(352): note: consider using '%lld' in the format string
+  d:\studia\sbd\project1\main.c(352): note: consider using '%I64d' in the format string
+d:\studia\sbd\project1\main.c(386): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'unsigned __int64'
+  d:\studia\sbd\project1\main.c(386): note: consider using '%lld' in the format string
+  d:\studia\sbd\project1\main.c(386): note: consider using '%I64d' in the format string
+d:\studia\sbd\project1\main.c(339): warning C4101: 'record': unreferenced local variable
+d:\studia\sbd\project1\main.c(424): warning C4244: 'function': conversion from 'unsigned __int64' to 'std::size_t', possible loss of data
+d:\studia\sbd\project1\main.c(442): warning C4244: '=': conversion from 'unsigned __int64' to 'int', possible loss of data
+d:\studia\sbd\project1\main.c(445): warning C4244: 'function': conversion from 'unsigned __int64' to 'std::size_t', possible loss of data
+d:\studia\sbd\project1\main.c(458): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\studia\sbd\project1\main.c(460): warning C4244: 'function': conversion from 'unsigned __int64' to 'std::size_t', possible loss of data
+d:\studia\sbd\project1\main.c(467): warning C4244: '=': conversion from 'unsigned __int64' to 'int', possible loss of data
+d:\studia\sbd\project1\main.c(470): warning C4244: 'function': conversion from 'unsigned __int64' to 'std::size_t', possible loss of data
+d:\studia\sbd\project1\main.c(527): warning C4013: 'getch' undefined; assuming extern returning int
+d:\studia\sbd\project1\main.c(418): warning C4477: 'scanf' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'unsigned __int64 *'
+  d:\studia\sbd\project1\main.c(418): note: consider using '%lld' in the format string
+  d:\studia\sbd\project1\main.c(418): note: consider using '%I64d' in the format string
+d:\studia\sbd\project1\main.c(522): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'unsigned __int64'
+  d:\studia\sbd\project1\main.c(522): note: consider using '%lld' in the format string
+  d:\studia\sbd\project1\main.c(522): note: consider using '%I64d' in the format string
+d:\studia\sbd\project1\main.c(523): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'unsigned __int64'
+  d:\studia\sbd\project1\main.c(523): note: consider using '%lld' in the format string
+  d:\studia\sbd\project1\main.c(523): note: consider using '%I64d' in the format string
+d:\studia\sbd\project1\main.c(524): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'unsigned __int64'
+  d:\studia\sbd\project1\main.c(524): note: consider using '%lld' in the format string
+  d:\studia\sbd\project1\main.c(524): note: consider using '%I64d' in the format string
+d:\studia\sbd\project1\main.c(56): warning C4715: 'loadBuffer': not all control paths return a value
+  Project1.vcxproj -> D:\Studia\SBD\Project1\Debug\Project1.exe
+  Project1.vcxproj -> D:\Studia\SBD\Project1\Debug\Project1.pdb (Partial PDB)
